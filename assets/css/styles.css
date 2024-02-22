@@ -1,0 +1,19 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-blue {
+    color: #007bff;
+}
+
+.btn-primary {
+    background-color: #e83e8c;
+    border-color: #e83e8c;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #e83e8c;
+    border-color: #e83e8c;
+    color: white;
+}
