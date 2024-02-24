@@ -8,10 +8,11 @@
 /* text css above hero image*/
 .hero_title {
     font-size: 5.5rem;
+    background-color: #000000;
 }
 .hero_desc {
     font-size: 3rem;
-    /*background-color: black;*/
+    background-color: black;
 }
 .hero-text {
     text-align: center;
