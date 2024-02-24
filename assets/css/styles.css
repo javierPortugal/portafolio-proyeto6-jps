@@ -2,7 +2,7 @@
 .bgimage {
     height:100vh;
     background: url('../images/wallpaper-mania-2.jpg');
-    background-size:cover;
+    background-size: cover;
     position:relative;
 }
 /* text css above hero image*/
@@ -68,7 +68,7 @@
 /* footer styling */
 #footer {
     background-color: #008000;
-    text-align: center;
+    text-align: start;
 }
 
 /* spacing on all sections */
