@@ -94,7 +94,7 @@
     cursor: pointer;
 }
 .fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
-    color: white;
+    color: black;
 }
 .fab {
     color: white;
