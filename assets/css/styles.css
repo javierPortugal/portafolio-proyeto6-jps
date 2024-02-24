@@ -1,18 +1,22 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('../images/wallpaper-mania-2.jpg');
+    /*background: url('../images/wallpaper-mania-2.jpg');*/
+    background: url('../images/wallpaper-background.webp');
     background-size: cover;
+    
     position:relative;
+
 }
 /* text css above hero image*/
 .hero_title {
     font-size: 5.5rem;
-    background-color: #000000;
+    /*background-color: rgb(129, 189, 248);*/
+    /*color: white;*/
 }
 .hero_desc {
     font-size: 3rem;
-    background-color: black;
+    /*background-color: black;*/
 }
 .hero-text {
     text-align: center;
