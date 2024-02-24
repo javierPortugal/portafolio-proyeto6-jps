@@ -79,7 +79,7 @@
     color: #008000;
 }
 .servicesText:hover {
-    border: 1px solid #008000;
+    border: 3px solid #008000;
 }
 
 
@@ -94,15 +94,15 @@
     cursor: pointer;
 }
 .fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
-    color: #008000;
+    color: white;
 }
 .fab {
-    color: #000000;
+    color: white;
 }
 /* footer styling */
 #footer {
-    background-color: #008000;
-    text-align: start;
+    background-color: black;
+    text-align: center;
 }
 
 /* spacing on all sections */
