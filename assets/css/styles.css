@@ -94,16 +94,15 @@
     cursor: pointer;
 }
 .fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
-    color: #008000;
+    color: white;
 }
 .fab {
-    color: green;
+    color: white;
 }
 /* footer styling */
 #footer {
     background-color: black;
     text-align: start;
-    color: white;
 }
 
 /* spacing on all sections */
